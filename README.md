@@ -35,6 +35,8 @@ The final interface uncovers strategic performance indicators across **3.9K uniq
 * **Average Ticket Value:** **$59.76** average spend per checkout, establishing a baseline order value.
 * **Customer Sentiment Baseline:** **3.75 out of 5** average review rating, highlighting target areas for service refinement.
 
+![Customer Experience Dashboard](kpi.png)
+
 ### 2. Behavioral & Demographic Deep Dives
 * **Revenue vs. Unit Volume by Category:** Side-by-side analysis reveals that **Clothing** drives the highest total revenue ($100K+) and unit sales (~1,700 items), closely followed by **Accessories**. **Outerwear** and **Footwear** show massive untapped growth potential.
 * **Subscription Split Matrix:** A clean donut visualization isolates the recurring revenue pipeline. Currently, **73% of customers are non-subscribers (No)** compared to a **27% premium user base (Yes)**, providing a clear target for marketing conversion campaigns.

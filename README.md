@@ -42,6 +42,9 @@ The final interface uncovers strategic performance indicators across **3.9K uniq
 * **Subscription Split Matrix:** A clean donut visualization isolates the recurring revenue pipeline. Currently, **73% of customers are non-subscribers (No)** compared to a **27% premium user base (Yes)**, providing a clear target for marketing conversion campaigns.
 * **Revenue & Volume by Age Group:** Horizontal bar breakdowns segregate value performance across life stages. **Young Adults** and **Middle-Aged** cohorts represent the strongest spending power, maintaining the highest total revenue metrics.
 
+![Customer Experience Dashboard](deep.png)
+
+
 ---
 
 ## 💡 Strategic Business Recommendations
@@ -51,7 +54,6 @@ Based on the dashboard insights, I formulated three major actionable recommendat
 2. **Logistics Optimization:** Cross-filtering the dashboard reveals how specific shipping options affect review ratings. Slicing by low-tier delivery methods can pinpoint if fulfillment delays are depressing the 3.75 visual rating ceiling.
 3. **Targeted Merchandising:** Capitalize on the high average purchase amount ($59.76) by implementing bundling rules for *Footwear* and *Outerwear* during seasonal peaks to mirror the high transaction velocity seen in *Clothing*.
 
-![Customer Experience Dashboard](deep.png)
 
 
 ---

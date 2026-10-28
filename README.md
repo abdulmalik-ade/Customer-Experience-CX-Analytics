@@ -51,6 +51,9 @@ Based on the dashboard insights, I formulated three major actionable recommendat
 2. **Logistics Optimization:** Cross-filtering the dashboard reveals how specific shipping options affect review ratings. Slicing by low-tier delivery methods can pinpoint if fulfillment delays are depressing the 3.75 visual rating ceiling.
 3. **Targeted Merchandising:** Capitalize on the high average purchase amount ($59.76) by implementing bundling rules for *Footwear* and *Outerwear* during seasonal peaks to mirror the high transaction velocity seen in *Clothing*.
 
+![Customer Experience Dashboard](deep.png)
+
+
 ---
 
 ## 📁 Repository Structure

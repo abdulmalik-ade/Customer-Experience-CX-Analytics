@@ -62,8 +62,8 @@ Based on the dashboard insights, I formulated three major actionable recommendat
 
 Feel free to explore the full suite of my data work and reach out for collaboration!
 
-* **💼 LinkedIn:** [Your Name](https://www.linkedin.com/in/yourprofile/ "Professional Profile")
-* **🎨 Portfolio Website:** [Your Portfolio Link](https://yourportfolio.com "Data Portfolio")
+* **💼 LinkedIn:** [Your Name]("https://www.linkedin.com/in/abdulmalik-tajudeen-86602b38b")
+* **🎨 Portfolio Website:** [Your Portfolio Link](abdulmalik-ade.github.io "Data Portfolio")
 * **✉️ Email:** your.email@example.com
 
 ---

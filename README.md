@@ -63,8 +63,8 @@ Based on the dashboard insights, I formulated three major actionable recommendat
 Feel free to explore the full suite of my data work and reach out for collaboration!
 
 * **💼 LinkedIn:** [Abdulmalik Tajudeen](https://www.linkedin.com/in/abdulmalik-tajudeen-86602b38b)
-* **🎨 Portfolio Website:** [My Portfolio Link](abdulmalik-ade.github.io)
-* **✉️ Email:** [My Email](abdulmaliktajudeen5@gmail.com)
+* **🎨 Portfolio Website:** [My Portfolio Link](https://abdulmalik-ade.github.io/)
+* **✉️ Email:** [My Email](mailto:abdulmaliktajudeen5@gmail.com)
 
 ---
 *Disclaimer: All sensitive company information and raw data assets have been fully anonymized and synthetic attributes applied to safeguard proprietary configurations.*

@@ -58,11 +58,16 @@ Based on the dashboard insights, I formulated three major actionable recommendat
 
 ---
 
-## 📁 Repository Structure
+## 📂 Repository Structure
+
 ```bash
-├── data/                    # Processed / anonymized customer behavior records
-├── dashboard/               # Power BI project file (.pbix)
-└── README.md                # Project documentation and summary
+.
+├── Customer Experience (CX) Analytics.pbix  # Live Power BI interactive dashboard file
+├── Customer Experience (CX) dashboard.png   # Full-width snapshot for README display
+├── README.md                                # Project documentation and business summary
+├── customer_shopping_behavior.csv          # Raw enterprise transactional data
+├── kpi.png                                  # High-level KPI visual block asset
+└── deep.png                                 # Explanatory deep-dive visual block asset
 ```
 
 ---

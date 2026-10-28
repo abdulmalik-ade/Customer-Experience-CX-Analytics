@@ -4,7 +4,7 @@ An end-to-end data analytics and business intelligence solution designed to trac
 
 ---
 
-![Customer Experience Dashboard](Customer Experience (CX) dashboard.png)
+![Customer Experience Dashboard](Customer%20Experience%20(CX)%20dashboard.png)
 
 ## 📖 The Business Story (Project Overview)
 
